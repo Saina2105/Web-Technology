@@ -13,10 +13,12 @@ font-family: 'Unbounded', cursive;
 
 body {
   font-family: "Open Sans", sans-serif;
+  
 }
 
 .splitBlock {
   display: flex;
+  height: 100vh;
 }
 
 .left-col {
@@ -24,6 +26,7 @@ body {
   background-color: rgb(186, 113, 67);
   padding: 5%;
   color: #ffffff;
+  height: 100vh;
 }
 
 h1 {
@@ -40,6 +43,7 @@ h2 {
 
 .right-col {
   width: 50%;
+  
 }
 
 figure {
